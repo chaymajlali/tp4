@@ -1,1 +1,2 @@
 Contenu de file3.txt
+Nouveau contenu pour file3.txt

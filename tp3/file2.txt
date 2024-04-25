@@ -1,2 +1,3 @@
 bonsoire
 
+Nouveau contenu pour file2.txt
